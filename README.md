@@ -27,7 +27,7 @@ This project is a modern React application scaffolded using **Vite** and **TypeS
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/v-trade-task.git
+git clone https://github.com/MoFahimKh/vTrades-FrontendDeveloperTask.git
 cd v-trade-task
 npm install
 ```
